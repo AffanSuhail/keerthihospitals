@@ -5841,6 +5841,11 @@ textarea:focus {
   transition: 0.3s ease;
 }
 
+.video-youtube {
+  width: 70%;
+  margin-top: 5px;
+}
+
 .gallery .gallery-items .grid-item .gallery-content .fc-icon {
   position: absolute;
   background: rgba(0, 163, 200, 0.8);
