@@ -254,6 +254,13 @@ $(document).ready(function() {
 		}
 	});
 
+	$(".video-youtube").magnificPopup({
+    type: "iframe",
+    removalDelay: 160,
+    preloader: false
+  });
+  
+
   // Counter Up
   $(".counter").counterUp({
     delay: 10,
